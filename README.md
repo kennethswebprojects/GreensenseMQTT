@@ -21,6 +21,9 @@ https://www.npmjs.com/package/mosca
 
 https://www.npmjs.com/package/bunyan
 - NPM module that aids in the parsing of incoming JSON messages, then 'pretties them up' before outputting them to the terminal.
+
+Run 'mosca -v | bunyan' to start mosca and have bunyan display the received JSON cleanly at the terminal.
+
 It matters most to prove the concept and have the correct protocols implemented properly, the fact that it's 
 just outputting to the terminal will suffice in the preliminary phases, we can build upon this later within the frontend if it 
 proves to be fruitful.
