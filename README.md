@@ -13,6 +13,21 @@ folders for the location of the app.js to locate it's routes, as is convention a
 
 Install latest versions of NPM & Node respectively.
 
+******************************************************************
+14th August 2019-
+
+Porting the content from :
+https://github.com/GreenSense/website
+
+HTML of former index.html from above ^ page has been converted to /views/index.pug via the tool:
+https://html-to-pug.com/
+
+Most of the content of former index.html has been added as layout to /views/layout.pug
+
+Many pathing changes have been made to take the pre-existing website and to copy it's content into the NodeJS, Express Generator file structure / convention.
+
+******************************************************************
+
 https://www.npmjs.com/package/express-generator
 - NPM module for creating the basic framework of the app
 
