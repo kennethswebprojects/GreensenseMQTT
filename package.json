@@ -15,6 +15,6 @@
     "pug": "^2.0.3"
   },
   "devDependencies": {
-    "lodash": "~4.17.15"
+    "lodash": "~4.17.21"
   }
 }
